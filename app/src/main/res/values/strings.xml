@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPExample</string>
+    <string name="title">Bienvenido !</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forget_password">¿Olvidó contraseña?</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="create_user">Crear Usuario</string>
+</resources>
